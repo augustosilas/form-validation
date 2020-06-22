@@ -1,0 +1,7 @@
+{
+  "name": "form-validation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Silas Augusto <augusto.fernandes775@gmail.com>",
+  "license": "MIT"
+}
